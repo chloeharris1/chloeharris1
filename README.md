@@ -1,7 +1,7 @@
 ## Hello, World! I'm Chloe Harris 👋
 
 * You can contact me at [chloe.a.harris17@gmail.com](chloe.a.harris17@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/chloe-harris-51982322/)
-* Check out other projects on [CodePen](https://codepen.io/chloeharris1)
+* Check out additional projects on [CodePen](https://codepen.io/chloeharris1)
 
 ## Languages and Tools 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

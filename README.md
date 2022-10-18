@@ -1,4 +1,4 @@
-## Hello, World! I'm Chloe Harris 👋
+## Hello, World! I'm Chloe Harris 
 
 * You can contact me at [chloe.a.harris17@gmail.com](chloe.a.harris17@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/chloe-harris-51982322/)
 * Check out additional projects on [CodePen](https://codepen.io/chloeharris1)

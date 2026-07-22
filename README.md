@@ -1,6 +1,6 @@
 ## Hello, World! I'm Chloe Harris 
 
-* Connect with me on [LinkedIn]([https://www.linkedin.com/in/chloe-harris-51982322/](https://www.linkedin.com/in/chloeaharris/))
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/chloeaharris/)
 * Check out additional projects on [CodePen](https://codepen.io/chloeharris1)
 
 ## Languages and Tools 
